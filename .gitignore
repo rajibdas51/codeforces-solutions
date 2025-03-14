@@ -1,0 +1,16 @@
+# ignores all exe files
+*.exe
+# ignore swap file of vim
+*.swp
+# ignores all txt files
+*.txt
+# except this one
+!javaTemplateForVsCode.txt
+# ignores all byte file or .class file produced by javac
+*.class
+# ignores java template
+javaTemplateForVsCode.json
+# ignores brute force , validator and gen file
+brute.cpp
+generator.cpp
+validator.py
